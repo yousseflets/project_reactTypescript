@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Narguiles",
+    "description": "Todos os tamanhos. Pequenos, médios e grandes",
+    "photo": "/assets/produtos/narguiles.png",
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": ""
+    }
+  },
+  {
+    "title": "Acessórios",
+    "description": "Todos os tipos de acessórios",
+    "photo": "/assets/produtos/acessoriosHome.png",
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": ""
+    }
+  },
+  {
+    "title": "HeadShop",
+    "description": "Todos os tipos de HeadShop.",
+    "photo": "/assets/produtos/headshopHome.png",
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": ""
+    }
+  }
+]
